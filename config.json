@@ -1,0 +1,6 @@
+{
+  "TWILIO_SID": "{{twilio_sid}}",
+  "TWILIO_AUTH_TOKEN": "{{twilio_auth_token}}",
+  "TWILIO_PHONE_NUMBER": "{{twilio_phone}}",
+  "MY_SPOUSE_NUMBER": "{{twilio_spouse_phone}}"
+}
